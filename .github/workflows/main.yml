@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "张三",
+    "phone": "19913249639",
+    "password": "2004928wang",
+    "deviceType": "vivo Y66i",
+    "deviceId": "设备ID",
+    "randomLocation": true,
+    "address": "河南省驻马店市上蔡县齐海乡上蔡县马楼",
+    "longitude": "114.363647",
+    "latitude": "33.292202",
+    "pushKey": "推送Key"
+  }
+]
